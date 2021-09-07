@@ -2,4 +2,6 @@
 Esta es una aplicacion  de node
 
 ejecutar
+```
 npm install
+```
